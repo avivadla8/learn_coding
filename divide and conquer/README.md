@@ -18,6 +18,33 @@ It has 4 steps:
 ### Implementation
 
 
+## Binary Search
+
+### Problem
+
+Search for a given number
+
+### Idea
+
+Using stl in cpp
+
+* binary_search(start_ptr,end_ptr,num);
+	* This function returns boolean true if element is present,else false
+
+* lower_bound(start_ptr,end_ptr,num);
+	* Returns pointer to "position of num" if container contains 1 occurrence of num.
+	* Returns pointer to "first position of num" if container contains multiple occurrence of num.
+	* Returns pointer to "position of next higher number than num" if container does not contain occurrence of num.
+	* Subtracting the pointer to 1st position i.e "vect.begin()" returns the actual index.
+
+* upper_bound(start_ptr, end_ptr, num);
+	* Returns pointer to "position of next higher number than num" if container contains 1 occurrence of num.
+	* Returns pointer to "first position of next higher number than last occurrence of num" if container contains multiple occurrence of num.
+	* Returns pointer to "position of next higher number than num" if container does not contain occurrence of num.
+	* Subtracting the pointer to 1st position i.e "vect.begin()" returns the actual index.
+
+
+
 ## Master's theorem
 
 
