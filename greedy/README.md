@@ -1,5 +1,13 @@
 # Greedy Algorithms
 
+## Where to use Greedy?
+
+A problem must comprise these two components for a greedy algorithm to work:
+
+1. It has optimal substructures. The optimal solution for the problem contains optimal solutions to the sub-problems.
+
+2. It has a greedy property (hard to prove its correctness!). If you make a choice that seems the best at the moment and solve the remaining sub-problems later, you still reach an optimal solution. You will never have to reconsider your earlier choices.
+
 ## Activity Selection Problem
 
 ### Problem
