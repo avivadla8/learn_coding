@@ -41,3 +41,7 @@ int count_one (int n)
 3. (-x) is the two’s complement of x. (-x) will be equal to one’s complement of x plus 1.Therefore (-x) will have all the bits flipped that are on the left of the rightmost 1 in x. 
 4. x | (1 << n) : Returns the number x with the nth bit set.
 
+## Some Creative use of Bitwise Operators
+[LINK](https://snook.ca/archives/javascript/creative-use-bitwise-operators)
+
+
