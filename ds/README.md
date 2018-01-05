@@ -28,7 +28,7 @@ For min_heap of integers
 	priority_queue <int, vector<int>, greater<int> > pq;
 
 For custom comparator function see
-[CODE](./priority queue.cpp)
+-- [CODE](./priority queue.cpp)
 
 
 ### Stacks
