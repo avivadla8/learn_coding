@@ -51,4 +51,25 @@ Using Min heap -- [CODE](./min_heap_k_elem.cpp)
 [CODE]()
 
 
+## Problems:
+
+* Simple logic problems:
+	* [LINK1](https://www.geeksforgeeks.org/search-almost-sorted-array/)
+	* [LINK2](https://www.geeksforgeeks.org/given-sorted-array-number-x-find-pair-array-whose-sum-closest-x/)
+	* [LINK3](https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/)
+	* [LINK4](https://www.geeksforgeeks.org/find-the-element-that-odd-number-of-times-in-olog-n-time/)
+	* [LINK5](https://www.geeksforgeeks.org/find-three-closest-elements-from-given-three-sorted-arrays/)
+	* [LINK6](https://www.geeksforgeeks.org/binary-search-for-rational-numbers-without-using-floating-point-arithmetic/)
+	* [LINK7](https://www.geeksforgeeks.org/print-possible-sums-consecutive-numbers-sum-n/)
+	* [LINK8](https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/)
+	* [LINK9](https://www.geeksforgeeks.org/best-first-search-informed-search/)
+
+* Important problems:
+	* [Make all array elements equal with minimum cost](https://www.geeksforgeeks.org/make-array-elements-equal-minimum-cost/)
+	* [Second minimum element using minimum comparisons](https://www.geeksforgeeks.org/second-minimum-element-using-minimum-comparisons/)
+	* [kth smallest in array in linear time](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array-set-2-expected-linear-time-2/)
+	* [kth smallest in worst case linear time](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array-set-3-worst-case-linear-time/)
+	* [k-most frequent words in file](https://www.geeksforgeeks.org/find-the-k-most-frequent-words-from-a-file/)
+	* [Celebrity Problem](https://www.geeksforgeeks.org/the-celebrity-problem/)
+
 
