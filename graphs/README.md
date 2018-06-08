@@ -7,7 +7,7 @@
 * In list, allocation of memory is non-contiguous, but in case of vector, memory is alloted in contiguous manner.
 * Solving Puzzles with only one solution, such as mazes can be solved using dfs 
 
-### Problems
+### Introduction
 
 * __Longest Path__ from a point to all the nodes in a graph(directed)
 	* Also Implemented __topological sort__ in this code (As the main idea is to topologically sort the directed graph and then assign the distance to nodes)
@@ -33,3 +33,10 @@
 	* Idea is to run dfs and backtrack, ie, make the vertex visit and then traverse the path, if it leads to destination then increase count and backtrack by making the vertex or node unvisited at the end of dfs.
 	* [CODE](./pathcount.cpp)
 
+
+
+### Problems or extra
+
+* [minimum-initial-vertices](https://www.geeksforgeeks.org/minimum-initial-vertices-traverse-whole-matrix-given-conditions/)
+* [shortest-path-between-twoprimes](https://www.geeksforgeeks.org/shortest-path-reach-one-prime-changing-single-digit-time/)
+* [water-jug-problem-withBFS](https://www.geeksforgeeks.org/water-jug-problem-using-bfs/)
