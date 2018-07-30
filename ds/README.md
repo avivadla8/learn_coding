@@ -32,7 +32,12 @@ For min_heap of integers
 For custom comparator function see
  [CODE](./priority_queue.cpp)
 
+#### Problems on Priority Queue
 
+* You are given an array A of N integers and an integer B.You have to find the longest subarray of A such that the difference between the maximum and the minimum element of that subarray is strictly less than B.
+	* Idea :- Use Two pointers to iterate over the array and two pointers act as start and end of sub-array using priority queue with custom comparator functions we can obtain minimum and maximum elements in sub-array in O(log(n)) time.
+	* Implementation :- [CODE](./long_sub_diff.cpp)
+	
 ### Stacks
 
 * empty() – Returns whether the stack is empty
