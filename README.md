@@ -37,4 +37,7 @@ Try this first. If your first antenna selection is not working then go with the 
 
 #### Synaptics touchpad tap-to-click is not working in Ubuntu 16.04 LTS (Gnome)
 *  upgraded my ubuntu gnome installation to 16.04.3 LTS (GNOME) and everything is kinda good except for the touchpad single-tap functionality. Single-tap-to-click is not working.
-* Permanent Solution :- gsettings set org.gnome.desktop.peripherals.touchpad tap-to-click true  
+* Permanent Solution :- 
+```bash
+$ gsettings set org.gnome.desktop.peripherals.touchpad tap-to-click true  
+```
